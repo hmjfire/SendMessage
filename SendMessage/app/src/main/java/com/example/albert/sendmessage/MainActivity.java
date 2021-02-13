@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG,"oncreate 1");
         setContentView(R.layout.activity_main_2);
         //secActivity.setClass(this,Main2Activity.class);
-        secActivity.setAction("my_action");
+        secActivity.setAction("my_action_aa");
         secActivity.addCategory("my_category");
 
 
